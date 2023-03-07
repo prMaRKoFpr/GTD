@@ -1,2 +1,5 @@
-# GTD
-Time management web_app
+node-modules
+
+npm install react
+npm install axios
+npm install sass
